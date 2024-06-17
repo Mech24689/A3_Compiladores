@@ -1,0 +1,13 @@
+inprograma
+    ni value = 10;
+    leia x;
+    leia y;
+    para (i in range(value)) {
+        escreva i;
+    }
+    enquanto (x < 20) {
+        x = x + 1.5;
+        escreva x;
+    }
+    escreva x + y;
+fmprograma
